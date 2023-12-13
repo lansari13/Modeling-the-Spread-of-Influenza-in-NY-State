@@ -178,6 +178,7 @@ criterion = torch.nn.MSELoss()
 # Optimizer
 optimizer = torch.optim.Adam(model.parameters(), lr=lr)
 
+# TRAIN
 for epoch in range(num_epochs):
     model.train()
     total_loss = 0
@@ -217,6 +218,7 @@ for epoch in range(num_epochs):
     total_loss /= len(all_data_objects)
     print(f'Epoch {epoch + 1}/{num_epochs}, Loss: {total_loss:.4f}')
 
+# VALIDATE
 model.eval()
 total_loss = 0
 
@@ -232,6 +234,7 @@ with torch.no_grad():
 
         print(f'Validation Loss: {total_loss:.4f}')
 
+# TEST
 model.eval()
 test_loss = 0
 all_predictions = []
