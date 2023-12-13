@@ -1,0 +1,70 @@
+County,Clustering Coefficient
+Albany,0.4
+Allegany,0.5
+Bronx,0.3333333333333333
+Broome,0.5
+Cattaraugus,0.5
+Cayuga,0.3333333333333333
+Chautauqua,0.6666666666666666
+Chemung,0.5
+Chenango,0.5
+Clinton,0.5
+Columbia,0.3
+Connecticut,0.667
+Cortland,0.3333333333333333
+Delaware,0.2857142857142857
+Dutchess,0.4
+Erie,0.3333333333333333
+Essex,0.4
+Franklin,0.5
+Fulton,0.6666666666666666
+Genesee,0.4
+Greene,0.4
+Hamilton,0.3333333333333333
+Herkimer,0.3333333333333333
+Jefferson,0.5
+Kings (Brooklyn),0.6666666666666666
+Lewis,0.5
+Livingston,0.4
+Madison,0.4
+Massachusetts,1.0
+Monroe,0.4
+Montgomery,0.4
+Nassau,1.0
+New Jersey,0.333
+New York (Manhattan),0.4
+Niagara,0.5
+Oneida,0.5
+Onondaga,0.6666666666666666
+Ontario,0.4
+Orange,0.238095238095238
+Orleans,0.6666666666666666
+Oswego,0.3333333333333333
+Otsego,0.3333333333333333
+Ottawa,0.5
+Pennsylvania,0.2
+Putnam,0.5
+Queens,0.3
+Rensselaer,0.2666666666666666
+Richmond (Staten Island),0.6666666666666666
+Rockland,0.3333333333333333
+Saratoga,0.2857142857142857
+Schenectady,0.6666666666666666
+Schoharie,0.4
+Schuyler,0.5
+Seneca,0.4
+St. Lawrence,0.4
+Steuben,0.3333333333333333
+Suffolk,1.0
+Sullivan,0.6666666666666666
+Tioga,0.5
+Tompkins,0.4
+Toronto,1.0
+Ulster,0.4
+Vermont,0.5
+Warren,0.6666666666666666
+Washington,0.5
+Wayne,0.5
+Westchester,0.1666666666666666
+Wyoming,0.5
+Yates,0.6666666666666666
