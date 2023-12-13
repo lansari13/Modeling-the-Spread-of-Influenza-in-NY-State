@@ -12,4 +12,4 @@ This project aims to model the spread of influenza in New York State using Graph
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone [Your-Repository-URL]
+   git clone [https://github.com/lansari13/Modeling-the-Spread-of-Influenza-in-NY-State.git]
