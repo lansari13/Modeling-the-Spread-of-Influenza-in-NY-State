@@ -1,13 +1,15 @@
-# Influenza Spread Modeling
+# Influenza Spread Modeling using GNN
 
-## Introduction
-This project models the spread of influenza in NY state using Graph Neural Networks (GNN) and Spatio-Temporal Attention Networks (STAN).
+## Project Overview
+This project aims to model the spread of influenza in New York State using Graph Neural Networks (GNN) and Spatio-Temporal Attention Networks (STAN). It focuses on predicting influenza cases across various counties over a specific time period.
 
-## Dependencies
-- torch
-- torch-geometric
-- pandas
-- numpy
-- scikit-learn
+## Installation
 
-Install the required packages using:
+### Prerequisites
+- Python 3.x
+- pip
+
+### Setup
+1. Clone the repository:
+   ```bash
+   git clone [Your-Repository-URL]
